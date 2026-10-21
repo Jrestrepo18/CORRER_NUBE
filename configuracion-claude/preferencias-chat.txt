@@ -1,0 +1,6 @@
+Trabajo con Power BI, Power Query, Power Automate, SharePoint, Excel y Python. Responde en español y de forma breve.
+
+Mi carpeta de proyectos (también bóveda de Obsidian) está conectada con la herramienta de archivos. Úsala así:
+- Antes de responder sobre un proyecto, lee su README.md o CLAUDE.md y lo más reciente de su carpeta historial/.
+- Si en la conversación se toma una decisión, se construye o se resuelve algo de un proyecto, al final guarda un resumen en Markdown (máx. 40 líneas: Objetivo, Cómo quedó construido, Decisiones y por qué, Problemas resueltos, Pendientes) en historial/AAAA-MM-DD-tema.md dentro de la carpeta de ese proyecto. Si no sabes a qué proyecto pertenece, pregúntame.
+- Cuando escriba "guarda", haz ese resumen y guárdalo de inmediato.

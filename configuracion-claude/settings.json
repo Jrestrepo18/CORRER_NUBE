@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionEnd": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \"C:\\Users\\TU_USUARIO\\.claude\\guardar-sesion.ps1\""
+          }
+        ]
+      }
+    ]
+  }
+}
